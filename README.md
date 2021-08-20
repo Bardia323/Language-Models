@@ -119,8 +119,7 @@ Idea: A system which allows manufacturers to "opt in" and have their products' s
 ```
 
 ## Dreamscape. 
-### Imagine where you want to be and It should tell you how to get there. 
-Works only on GPT-3 so far. Bigger models not tested.
+### Imagine where you want to be and the oracle tells you how to get there. 
 ```
 Experience: Watching thousands of crabs slowly migrating to the sea
 Location: Maryland
@@ -132,6 +131,7 @@ Location: South America
 How to: Go to South America. Travel to Peru, and go on a three-day hike through the Andes mountains. Be sure to take a camera.
 Lookup: Peru llamas
 ```
+
 ## Deepmind. 
 ### Sound Deep and philosophical.
 ```
