@@ -1,7 +1,8 @@
 # Language-Models
 Examples of semi-predictable paragraphs and texts to teach your Transformer Models. All examples below are AI generated and can be used to generate more. Since [Language models are one-shot learners](https://arxiv.org/abs/2007.09679). Most of these were tested on GPT-3, but there's no reason other well-trained language models cannot do the same. 
 
-## Adverts. For Marketing agencies.
+## Adverts. 
+### For Marketing agencies.
 ```
 Product: Air freshener
 The new, improved Ubik air freshener gets rid of all smells from tobacco to fish without that sharp ammonia smell of other products. Safe when used as directed. 
@@ -11,7 +12,8 @@ Imagine a golf course with no forbidden areas, water hazards, out of bounds, or 
 
 Product: 
 ```
-## Real Estate Public Remarks. For Real Estate agents.
+## Real Estate Public Remarks. 
+### For Real Estate agents.
 ```
 Address: 23 Macewan Park Link NW Calgary
 
@@ -32,7 +34,8 @@ This property has a tranquil setting and a country feel, but is still close to t
 Address:
 ```
 
-## Pitch Maker. For your next big thing.
+## Pitch Maker. 
+### For your next big thing.
 ```
 Pitch: artificial intelligence platform
 The PC industry is dying. It's been dying since the early 90′s, but now it's really dead. There are two main reasons why: 1) The Internet changed everything, 2) People stopped caring about being cool and started wanting to be productive. AI is going to change everything again. In fact, it already has. Google's DeepMind beat all the world champions at Go (a board game). They used machine learning to play the game better than humans could. It was amazing! But what if you could use AI to improve your life? You could build a computer that could learn from experience and improve itself. That's what we're doing with UBIK. We want to create machines that can think like humans, not just like computers. We want to create the first true AI.
@@ -42,7 +45,8 @@ Our brand is about intelligence, innovation, and optimism. We want to bring back
 Pitch: 
 ```
 
-## Principle of _______. Define Cultural codes of Ideologies, Religions, beliefs and Ideas.
+## Principle of _______. 
+### Define Cultural codes of Ideologies, Religions, beliefs and Ideas.
 ```
 Principles of libertarianism 
 1. If it doesn't affect anyone but yourself then do what you want
@@ -95,7 +99,8 @@ Principles of authoritarianism
 Principles of 
 ```
 
-## Goals? SMART Goals! (Specific, Measurable, Achievable, Relevant, and Time-bound)
+## Goals? SMART Goals! 
+### (Specific, Measurable, Achievable, Relevant, and Time-bound)
 ```
 Goal: Exercise, pullups
 SMART Goal: I want to be able to do 2 consecutive pull-ups by the end of the year by practicing pull-ups at the gym 3 times per week.
@@ -103,7 +108,8 @@ SMART Goal: I want to be able to do 2 consecutive pull-ups by the end of the yea
 Goal: Lose weight
 SMART Goal: I want to lose 5 pounds by the end of the year by exercising regularly starting at 30 minutes per day and eating 3 fruits daily.
 ```
-## Idea Generator. Brainstorm infinite ideas.
+## Idea Generator. 
+### Brainstorm infinite ideas.
 ```
 Tags: App, Location Based Services, GPS Tracking
 Idea: A location-based service that allows you to know when your car is going to be at a particular place and what time.
@@ -112,7 +118,9 @@ Tags: manufacturing, supply chain, efficiency
 Idea: A system which allows manufacturers to "opt in" and have their products' serial numbers registered. If a defective item harms someone, the manufacturer is notified and can provide a replacement part with the same serial number. This increases brand visibility and reputation, while protecting manufacturers from brand harm when an item under a different brand name causes injury. (Eg. A chair's arm breaks and smashes someone's skull, killing them. The chair's arm is found to have been made by Company A, who notifys Company Z of the problem and provides them with a replacement part).
 ```
 
-## Dreamscape. Imagine where you want to be and It should tell you how to get there. Works only on GPT-3 so far. Bigger models not tested.
+## Dreamscape. 
+### Imagine where you want to be and It should tell you how to get there. 
+Works only on GPT-3 so far. Bigger models not tested.
 ```
 Experience: Watching thousands of crabs slowly migrating to the sea
 Location: Maryland
@@ -124,7 +132,8 @@ Location: South America
 How to: Go to South America. Travel to Peru, and go on a three-day hike through the Andes mountains. Be sure to take a camera.
 Lookup: Peru llamas
 ```
-## Deepmind. Sound Deep and philosophical.
+## Deepmind. 
+### Sound Deep and philosophical.
 ```
 Theme: Enlightenment
 There are no enlightened individuals. Only enlightenment. 
@@ -135,7 +144,9 @@ The pursuit of happiness is not freedom, it is a cage. True freedom is in the ac
 Theme:
 ```
 
-## Analogy Gen. Make analogies. (unlike the rest, this one I stole from someone else)
+## Analogy Gen. 
+### Make analogies. 
+(unlike the rest, this one I stole)
 ```
 People are like mojitos in that more thought goes into making them than one might think at first.
 
@@ -143,7 +154,8 @@ Dreaming is like reality in that they are both only what you make of them.
 
 _____ is like ___ in that 
 ```
-## Data Cleaner. Clean your Data. (use low temperature)
+## Data Cleaner. 
+### Clean your Data. (use low temperature)
 
 ```
 Data:
