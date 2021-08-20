@@ -1,5 +1,5 @@
 # Language-Models
-Examples of semi-predictable paragraphs and texts to teach your Transformer Models. All examples below are AI generated and can be used to generate more. Since [Language models are one-shot learners](https://arxiv.org/abs/2007.09679). Most of these were tested on GPT-3, but there's no reason other well-trained language models cannot do the same. 
+Examples of semi-predictable paragraphs and texts to teach your Transformer Models. All examples below are AI generated and can be used to generate more since [Language models are one-shot learners](https://arxiv.org/abs/2007.09679). Most of these were tested on GPT-3, but there's no reason other well-trained language models cannot do the same. 
 
 ## Adverts. 
 ### For Marketing agencies.
